@@ -1,0 +1,54 @@
+<DATABASE> t
+	<METADATA>
+	</METADATA>
+	<TABLES>
+		<TABLE> table1
+			<COLUMNS>
+				<COLUMN> col1 int PK </COLUMN>
+				<COLUMN> col2 int UK </COLUMN>
+				<COLUMN> col3 int UK </COLUMN>
+			</COLUMNS>
+			<ROWS>
+				<ROW> 1 1 1  </ROW>
+				<ROW> 2 2 2  </ROW>
+				<ROW> 3 3 3  </ROW>
+				<ROW> 4 4 4  </ROW>
+				<ROW> 5 5 5  </ROW>
+				<ROW> 6 6 6  </ROW>
+				<ROW> 7 7 7  </ROW>
+				<ROW> 8 8 8  </ROW>
+				<ROW> 9 9 9  </ROW>
+				<ROW> 10 10 10  </ROW>
+				<ROW> 20 20 20  </ROW>
+				<ROW> 30 30 30  </ROW>
+				<ROW> 100 100 100  </ROW>
+				<ROW> 200 200 200  </ROW>
+				<ROW> 300 300 300  </ROW>
+				<ROW> 1000 010 1000  </ROW>
+				<ROW> 2000 2000 2000  </ROW>
+				<ROW> 38 38 38  </ROW>
+				<ROW> 18 18 18  </ROW>
+				<ROW> 28 28 28  </ROW>
+				<ROW> 31 31 31  </ROW>
+				<ROW> 12 12 12  </ROW>
+				<ROW> 222 222 222  </ROW>
+				<ROW> 333 333 333  </ROW>
+				<ROW> 123232 1323 123  </ROW>
+				<ROW> 254 254 254  </ROW>
+				<ROW> 354 354 354  </ROW>
+			</ROWS>
+		</TABLE>
+		<TABLE> table2
+			<COLUMNS>
+			</COLUMNS>
+			<ROWS>
+			</ROWS>
+		</TABLE>
+		<TABLE> table3
+			<COLUMNS>
+			</COLUMNS>
+			<ROWS>
+			</ROWS>
+		</TABLE>
+	</TABLES>
+</DATABASE>
